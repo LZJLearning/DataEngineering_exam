@@ -6,3 +6,4 @@ flask-jwt-extended==4.6.0
 flask-limiter==3.5.0
 requests==2.31.0
 pandas==2.2.1
+pyarrow==16.0.0
