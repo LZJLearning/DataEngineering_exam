@@ -5,5 +5,5 @@ __pycache__/
 /tmp/datalake/
 .idea/
 .vscode/
-outputs/analytics/*.csv
-outputs/screenshots/*.png
+# outputs/analytics/*.csv
+# outputs/screenshots/*.png
