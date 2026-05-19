@@ -1,0 +1,8 @@
+kafka-python-ng==2.2.2
+pyspark==3.5.3
+flask==3.0.2
+flask-smorest==0.42.3
+flask-jwt-extended==4.6.0
+flask-limiter==3.5.0
+requests==2.31.0
+pandas==2.2.1

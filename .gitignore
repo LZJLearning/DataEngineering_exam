@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+/tmp/datalake/
+.idea/
+.vscode/
+outputs/analytics/*.csv
+outputs/screenshots/*.png
